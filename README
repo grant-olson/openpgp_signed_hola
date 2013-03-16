@@ -1,9 +1,0 @@
-This is just a test gem for rubygems-openpgp.  If you have
-rubygems-openpgp installed, you should be able to run:
-
-`gem fetch openpgp_signed_hola`
-`gem verify openpgp_signed_hola`
-
-To verify authenticity before running
-
-`gem install openpgp_signed_hola-0.0.0.gem`
