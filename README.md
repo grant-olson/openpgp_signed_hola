@@ -8,8 +8,7 @@ integrity by running:
 
     gem install openpgp_signed_hola --verify
 
-Much more information on signing is available at the [rubygems-openpgp
-Certificate Authority](https://www.rubygems-openpgp-ca.org).
+Much more information on signing is available at the [rubygems-openpgp](https://github.com/grant-olson/rubygems-openpgp) page.
 
 
 Signing key:
